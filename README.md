@@ -1,0 +1,2 @@
+# Angular-Architecture-Essentials-Build-Your-First-App-course-code
+Learn Angular architecture from the ground up in this practical walkthrough of Modules, Components, Templates, Metadata, Directives, Services, and Dependency Injection. You’ll see how Angular’s rewritten core—optimized for mobile performance, ES6/TypeScript, and a slim design without $scope—fits together so you can assemble a simple, polished web a
